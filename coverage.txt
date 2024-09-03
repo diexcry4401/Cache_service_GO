@@ -1,6 +1,6 @@
 mode: set
 cache/cache.go:33.37,39.2 1 1
-cache/cache.go:41.30,43.2 1 0
+cache/cache.go:41.30,43.2 1 1
 cache/cache.go:45.30,49.2 3 1
 cache/cache.go:51.28,57.2 4 1
 cache/cache.go:59.40,64.8 4 1
